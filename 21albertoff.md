@@ -7,4 +7,4 @@ Enlace jenkins y nombre repositiorio: http://jenkins-teamada.northeurope.cloudap
 
 #Ejercicio3
 Repositorio: https://github.com/21albertoff/ejecicio3examen
-Enlace jenkins y nombre repositiorio: http://jenkins-teamada.northeurope.cloudapp.azure.com/  (aff012)
+Enlace jenkins y nombre repositiorio: http://jenkins-teamada.northeurope.cloudapp.azure.com/  (ejecicio3examen-aff012)
